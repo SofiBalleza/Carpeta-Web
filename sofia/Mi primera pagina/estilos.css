@@ -1,0 +1,10 @@
+body { background-color: pink;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 { color: rgb(118, 118, 231);
+text-align: center;
+}
+p {color: black;
+font-size: 20px;
+font-style: normal;
+}
